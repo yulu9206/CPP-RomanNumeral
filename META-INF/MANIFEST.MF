@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_131 (Oracle Corporation)
+
+Name: codecheck.log
+SHA-256-Digest: g16ruNCaXByVBNC4lNgpwCDEpOQbrhbMjXJKhTS3n4U=
+
+Name: report.html
+SHA-256-Digest: LyDV/omFnZ32qu7awOAq4XEFvDzPn3xF5Da8T0KMvCY=
+
+Name: RomanNumeral.cpp
+SHA-256-Digest: oM/wrCPIZNkaVAGW1Xe0pn6bgXntDUUlQNij8rodDPI=
+
+Name: RomanNumeral.h
+SHA-256-Digest: q6P8lRBac09+A92shxh0r5uglLe2VKiVpAteS0OrFJw=
+
+Name: codecheck.out
+SHA-256-Digest: 47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+
